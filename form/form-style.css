@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+input[type]{
+    margin: 0.5rem;
+}
+fieldset {
+    margin: 40px;
+    }
+a{
+    font-size: 0.7rem;
+}
+body{
+    font-size: 100%;
+}
+#password{
+    padding-top: 60px;
+}
+li{
+    margin: 0.5;
+}
+div{
+    margin: 0.5;
+}
