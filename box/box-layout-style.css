@@ -8,7 +8,6 @@
 }
 .box{
     display: flex;
-    background-image:url(img/spider-man-logo-red-and-black-wallpaper-3554x1999_53.jpg);
     background-size:cover ;
 
     justify-content: center;
@@ -34,13 +33,11 @@ div.syasinn{
 }
 h1{
     text-align: center;
-    background-image:url(img/tumblr_p9mb615uWS1to3b2to4_1280.png) ;
 background-size: contain;
 
 
 }
 a{
-background-image: url(img/WYyKHQSC_400x400.jpg);
 background-size:cover ;
 background-position: center;
 width: 30%;
@@ -64,7 +61,3 @@ p{
  transition:0.5s all;
 }
 
-.syasinn img:hover{
-  transform:scale(1.2, 1.2);
-  transition:0.5s all; 
-}
